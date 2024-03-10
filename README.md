@@ -1,10 +1,8 @@
 <!-- TOTAL VISITORS -->
 <img align="center" src="https://visitcount.itsvg.in/api?id=heion31&icon=6&color=12" alt="Visit Count" />
-<!-- PROFILE IMG -->
-<img align="left" height="150" src="https://pbs.twimg.com/profile_images/1585819921594085376/Oa93Cj7Q_400x400.jpg" />
 <!-- HEADER -->
-<h1 align="center">𝚈𝚘! I'm 𝐍𝐨𝐚𝐡 𝚊.𝚔.𝚊 '𝐇𝐞𝐢𝐨𝐧im' 🌞</h1>
-<h2 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h2>
+<h1 align="center">𝚈𝚘! I'm Heionim 🌞</h1>
+<h3 align="center">ꜰʀᴏɴᴛᴇɴᴅ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
 <br>
 
@@ -18,6 +16,23 @@
 
 <br>
 
+
+<h3 align="center">🔧 Tech Tools</h3>
+<p align="center">
+     <!-- GITHUB -->
+     <a href="https://github.com" target="_blank" rel="noreferrer" title="Github"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+     <!-- Figma -->
+     <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+     <!-- Visual Studio Code -->
+     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual StudiO Code"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+     <!-- Vercel -->
+     <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
+     <!-- OBSIDIAN -->
+     <a href="https://obsidian.md/" target="_blank" rel="noreferrer" title="Obsidian"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/></a>
+     <!-- POSTMAN -->
+     <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+</p>
+
 <!-- TECH STACK -->
 <h3 align="center">🛠 Tech Stack</h3>
 <p align="center">
@@ -27,14 +42,8 @@
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
      <!-- JavaScript -->
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-     <!-- Figma -->
-     <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-     <!-- Visual Studio Code -->
-     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/></a>
      <!-- GIT -->
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-     <!-- Vercel -->
-     <a href="https://vercel.com/" target="_blank" rel="noreferrer" title="Vercel"> <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
      <!-- Sass -->
      <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/></a>
      <!-- Styled Components -->
@@ -58,9 +67,9 @@
      <!-- MongoDB -->
      <!--<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/></a>-->
      <!-- Next.js -->
-     <!--<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/></a>-->
+     <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js"> <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" width="40" height="40"/></a>
      <!-- TypeScript -->
-     <!--<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>-->
+     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/></a>
      <!-- Supabase -->
      <a href="https://supabase.io/" target="_blank" rel="noreferrer" title="Supabase"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/></a>
 </p>
